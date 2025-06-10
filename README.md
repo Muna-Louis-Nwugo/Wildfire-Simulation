@@ -1,7 +1,7 @@
 # 🔥 Wildfire Simulation
 ##### A 2-D spatial simulation engine demonstrating how wildfires spread across terrain and assess damage to infrastructure using custom graph algorithms and probabilistic modelling.
 
-Inspired by the 2025 Los Angeles Wildfires, this project was born out of a desire to help people and governments better prepare for catastrophes that may occur in their areas. Originally planned to be a tool to help people see the likelihood of a wildfire occurring in their area, this crude tool intends to give citizens, governments and insurance agencies an idea of how much damage a wildfire could cause if started in some regions of the United States.
+Inspired by the 2025 Los Angeles Wildfires, this project was born out of a desire to help people and governments better prepare for catastrophes that may occur in their areas. Originally planned to be a tool to help people see the likelihood of a wildfire occurring in their area, this early prototype intends to give citizens, governments and insurance agencies an idea of how much damage a wildfire could cause if started in some regions of the United States.
 
 ---
 ## Start and Run Simulation
