@@ -27,7 +27,7 @@ It works by:
   2. The second to stochastically propagate the fire throughout the grid (replacing a Cellular Automaton approach for a less clunky, more elegant solution)
 - Using an event-driven approach to dynamically update the render as new cells catch fire and burn out.
 
-A fire's spread probability is estimated using the following Compound formula:
+A fire's spread probability is estimated using the following compound formula:
 ### Spread Probability = (Base Probability) * (Flammability Factor) * (Wind Factor)
 Where:
 - **Base Probability** is set to 0.5 (50% chance of spread if nothing else was considered)
